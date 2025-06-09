@@ -60,7 +60,7 @@ kshitiz937@gmail.com
 
 If you reference or use any ideas from this work, please cite it as:
 
-Gautam, K. (2024).Harnessing the Power of Transformer Architectures for Sentiment-Based Stock Market Prediction. https://github.com/KGDS788.github.io/Reddit_Sentiment_Based_Stock_Forecasting_BERT-XGBoost
+Gautam, K. (2024).Harnessing the Power of Transformer Architectures for Sentiment-Based Stock Market Prediction. https://github.com/KGDS788.github.io/Reddit_Sentiment_Based_Stock_Forecasting_BERT_XGBoost
 
 
 ## Disclaimer
